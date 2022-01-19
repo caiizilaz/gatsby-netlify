@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Great Slot แตกหนัก
 image: /img/3d-rendering-playing-neon-cards-260nw-1871837083.webp
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
